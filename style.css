@@ -10,7 +10,7 @@ h1{
 }
 .flex-container{
     display: flex;
-    padding-top: 150px;
+    padding-top: 50px;
     padding-bottom: 100px;
 }
 .bg-img{
@@ -33,4 +33,55 @@ h1{
 }
 #person-img{
     width: 44.5%;
+}
+.my-recp-pdiv{
+    padding-bottom: 100px;
+}
+.my-recp{
+    text-align: center;
+}
+.rep-1{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 35px;
+    padding-top: 20px;
+    border-radius: 5%;
+    box-shadow: 0px 0px 10px 0px
+}
+.rep-1 img{
+    width: 243.844px;
+    height: 185.234px;
+    border-radius: 5%;
+}
+.rep-2{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 35px;
+    padding-top: 20px;
+    border-radius: 5%;
+    box-shadow: 0px 0px 10px 0px;
+}
+.rep-2 img{
+    width: 243.844px;
+    height: 185.234px;
+    border-radius: 5%;
+}
+.rep-3{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 35px;
+    padding-top: 20px;
+    border-radius: 5%;
+    box-shadow: 0px 0px 10px 0px
+}
+.rep-3 img{
+    width: 243.844px;
+    height: 185.234px;
+    border-radius: 5%;
+}
+.foods-flex{
+    display: flex;
 }
