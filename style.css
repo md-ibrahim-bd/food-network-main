@@ -1,0 +1,26 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.skip{
+    color: coral;
+}
+.flex-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 80%;
+}
+.order-btn{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: aliceblue;
+}
