@@ -1,5 +1,6 @@
 body{
     font-family: "Poppins", sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -9,6 +10,12 @@ h1{
 }
 .flex-container{
     display: flex;
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+.bg-img{
+    background-image: url(/images/shapes/7.png);
+    background-repeat: no-repeat;
 }
 .half-width{
     width: 50%;
@@ -23,4 +30,7 @@ h1{
     padding: 10px 40px;
     border-radius: 10px;
     color: aliceblue;
+}
+#person-img{
+    width: 44.5%;
 }
